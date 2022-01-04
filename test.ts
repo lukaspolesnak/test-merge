@@ -1,3 +1,2 @@
-test123
-ahoj
-ja som test
+test1
+https://github.com/lukaspolesnak/test-merge.git
